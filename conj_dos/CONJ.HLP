@@ -1,0 +1,13 @@
+    Bu bolumde istediginiz  herhangi bir fiilin cekimini secmis oldugunuz tum
+zamanlarda gorebilirsiniz. Once size fiil sorulacaktir. Fiili yazip return'e
+basiniz. Eger fiilde fransizcaya ait harflerden biri varsa bunu yazmak icin
+F1, F2, F3 fonksiyon tuslarini kullanin.
+    Yazdiginiz fiil fransizcada bulunabilecek bir fiil ise program bunun
+cekimini dogru olarak yapacaktir. Her seferinde 8 sujets yazilir. Fakat kimi
+fiillerde bazi sahislar bulunmadigindan bunlar yazilmaz.
+        Ornek: pleuvoir yalniz il sahisi yazilir
+	       clore nous ve vous sahislari yoktur.
+     Fiillerin bu bolumdeki cekimlerine dikkatli bakiniz zira Teste ve
+Exercices bolumlerinde yapacaginiz cekimlerin dogru olarak kabul edilebilmesi
+icin sizin de ayni bu sekilde yazmaniz gerekir.
+     Ana secim ekranina donmek icin  ESC  tusunu kullanabilirsiniz.

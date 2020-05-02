@@ -1,0 +1,5 @@
+     Bu secenek ile, programin test bolumunde, rastgele fiil secmek icin
+kullandigi fiil listesinden, dilediginiz fiili silebilirsiniz.
+     Silmek istediginiz fiili yazin. Eger fiil listede yoksa bu durum size
+bildirilir, aksi takdirde girdiginiz fiil listeden silinir. Yaptiginiz
+degisikligi gormek icin voir secenegini kullanin.

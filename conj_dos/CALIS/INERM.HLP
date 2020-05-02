@@ -1,0 +1,17 @@
+    Programda 6 tane iner menu vardir. Bunlar ekranin en ust satirinda
+bulunurlar ve ilk harflari farkli renktedir :
+
+ 1-Les Temps   2-Les Temps   3-Les Temps   Fonctions    Verbes    Programme
+
+    Ana secim akraninda iken bu iner menulerden birini secmek icin  ALT  tusu
+ile birlikte menunun farkli renkte olan ilk karakterine basin.
+		  Ornek: ALT F ,  ALT 1
+
+    Herhangi bir menuyu indirdiginizde bunun solundaki ve sagindaki menuyu
+indirmek icin imlec sol ve sag tuslarini kullanabilirsiniz.
+    Iner menulerde istediginiz secenegi secmek icin imlec YUKARI, ASAGI
+ve  ENTER ( RETURN ) tuslarini kullanin.
+
+    Hizli Secim: Iner menulerdeki islevleri yanlarinda yazan tuslara basarak
+da ( iner menuleri indirmeden ) secebilirsiniz.
+    Ornek: CTRL c tuslarina bastiginizda conjugaison bolumune gidersiniz.

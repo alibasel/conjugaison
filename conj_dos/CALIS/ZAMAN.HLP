@@ -1,0 +1,19 @@
+    Programda tum islemler iner menulerde gosterilen 12 zamanda yapilabilmek-
+tedir. Bu zamanlari gormek icin ana secim ekraninda 1-Les Temps  2-Les Temps
+3-Les Temps iner menulerine bakiniz. Bu zamanlarin pronominale sekilleri de
+mevcuttur.
+    Bu 3 menude zaman isimlerinin yaninda  *  simgesi ve fonksiyon tuslarin-
+dan biri yazmaktadir. Ornek: Present * F1 . Buradaki  *  simgesi bu zamanin
+secilmis oldugu anlamina gelir. Yani  Fonctions  iner menusundeki Conjugaison
+Exercice, Teste bolumlerinde bu zaman kullanilacaktir.
+    Eger bir zamanin yaninda  *  simgesi yoksa hicbir islemde bu zaman kulla-
+nilmayacaktir. Yani bu zamandan sorumlu tutulmayacaksiniz.
+    Bir zamanin secimini ( yanina * konmasini ) 2 yolla yapabilirsiniz:
+	1. O zamanin bulundugu iner menuyu indirir ve istediginiz zamanin
+ustune secim cubugunu getirip ENTER tusuna basarsiniz. Bu durumda hem secim
+( veya iptal ) islemini yapmis olur hem de bu zamanin cekiminde ne yapildigi
+hakkinda kisa bir bilgi gorursunuz.
+	2. O zamanin yaninda yazili olan fonksiyon tusuna basarsiniz. Bu du-
+rumda ekranda hicbir degisiklik olmaz.  Ornek: present icin F1 tusuna basin.
+    Program calismaya basladiginda tum zamanlar secilmis durumdadir, bilmedi-
+giniz zamanlari iptal edin.  ( SF1 = shift F1 )
